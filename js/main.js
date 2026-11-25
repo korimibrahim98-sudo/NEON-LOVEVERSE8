@@ -210,7 +210,7 @@ const outingPhotos = Array.from({ length: 31 }, (_, index) => {
 // الصور الخمسة الأصلية
 const couplePhotos = [
     {
-        src: "images/couple.jpg",
+       src: "images/outings/couple.jpg",
         title: "إحنا",
         description: "أجمل صورة في الحكاية"
     },
